@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AlsammanAlsamman&style=for-the-badge&color=3b88c3&label=Profile+Views)](https://github.com/AlsammanAlsamman)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlsammanAlsamman&show_icons=true&hide_border=true&bg_color=f3f3f3&title_color=2c3e50&icon_color=3b88c3&text_color=2c3e50&count_private=true" alt="GitHub Stats" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlsammanAlsamman&show_icons=true&hide_border=true&bg_color=f3f3f3&title_color=2c3e50&icon_color=3b88c3&text_color=2c3e50&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="95%"/>
 </p>
 
 <p align="center">
@@ -35,9 +35,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlsammanAlsamman&theme=tokyonight" alt="Repos Per Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlsammanAlsamman&theme=tokyonight" alt="Most Commit Language" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsammanAlsamman&layout=compact&hide_border=true&bg_color=f3f3f3&title_color=2c3e50&text_color=2c3e50&langs_count=8" alt="Compact Languages" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsammanAlsamman&layout=compact&hide_border=true&bg_color=f3f3f3&title_color=2c3e50&text_color=2c3e50&langs_count=8&card_width=500" alt="Language Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsammanAlsamman&layout=pie&hide_border=true&bg_color=f3f3f3&title_color=2c3e50&text_color=2c3e50&langs_count=8" alt="Language Pie" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlsammanAlsamman&theme=tokyonight" alt="Repos Per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlsammanAlsamman&theme=tokyonight" alt="Most Commit Language" width="48%"/>
 </p>
 
 </div>
