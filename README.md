@@ -3,7 +3,7 @@
 <img src="images/profile.png" alt="Profile" width="100%" style="max-width: 1200px; display: block; margin: 0 auto;"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&width=500&lines=Hi+there!+👋+🏃‍♂️;I'm+Alsamman+Alsamman;Welcome+to+my+GitHub!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Alsamman+Alsamman;Bioinformatician+%7C+Data+Scientist;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
