@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="alsamman.svg" alt="Profile" width="100%" style="max-width: 1200px; display: block; margin: 0 auto;"/>
+<img src="images/alsamman.gif" alt="Profile" width="100%" style="max-width: 1200px; display: block; margin: 0 auto;"/>
 
-<h1 align="center">Hi there! 👋 I'm Alsamman Alsamman</h1>
-<h3 align="center">Bioinformatician | Data Scientist | Welcome to my GitHub! 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
@@ -30,7 +28,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=r,python,c,cpp,bash,java,perl" alt="Programming Languages"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlsammanAlsamman&theme=tokyonight" alt="Repos Per Language" width="48%"/>
