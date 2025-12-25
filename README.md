@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/profile.png" alt="Profile" width="100%" style="max-width: 1200px; display: block; margin: 0 auto;"/>
+<img src="alsamman.svg" alt="Profile" width="100%" style="max-width: 1200px; display: block; margin: 0 auto;"/>
 
 <h1 align="center">Hi there! 👋 I'm Alsamman Alsamman</h1>
 <h3 align="center">Bioinformatician | Data Scientist | Welcome to my GitHub! 🚀</h3>
