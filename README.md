@@ -3,17 +3,16 @@
 <img src="images/alsamman.gif" alt="Profile" width="100%" style="max-width: 1200px; display: block; margin: 0 auto;"/>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</p>
 
-<p align="center">
-  <em><b>Bioinformatician | Data Scientist | Open Source Enthusiast</b></em>
-</p>
 
 <p align="center">
   <em>I love connecting with different people! Feel free to reach out and say hi! 👋</em>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThndmtnczczb2hmOHhxMHM0cTkzdmtsaTY4a3lwNGUzbXo5bTJueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W3a0zO282fuBpsqqyD/giphy.gif" width="150">
+</p> 
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AlsammanAlsamman&style=for-the-badge&color=3b88c3&label=Profile+Views)](https://github.com/AlsammanAlsamman)
 
