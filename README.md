@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlsammanAlsamman/brainny"><img src="https://raw.githubusercontent.com/AlsammanAlsamman/brainny/master/assets/badge-example.svg" alt="brainny activity"/></a>
+  <a href="https://github.com/AlsammanAlsamman/brainny"><img src="https://raw.githubusercontent.com/AlsammanAlsamman/brainny/master/assets/badge.svg" alt="brainny activity"/></a>
 </p>
 
 <p align="center">
