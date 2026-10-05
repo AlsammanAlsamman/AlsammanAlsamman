@@ -26,7 +26,7 @@ GWAS and fine-mapping, reproducible HPC pipelines, and tools that make analysis 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🔭 <a href="https://github.com/AlsammanAlsamman/LYNXgwas">LYNXgwas</a></h3>
 <sub><b>GWAS · Fine-mapping · Visualization</b></sub>
@@ -36,7 +36,7 @@ GWAS and fine-mapping, reproducible HPC pipelines, and tools that make analysis 
 <img src="https://img.shields.io/badge/GWAS-6f42c1?style=flat-square" alt="GWAS"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🕸️ <a href="https://github.com/AlsammanAlsamman/sciweave">SciWeave</a></h3>
 <sub><b>Provenance · Reproducibility</b></sub>
@@ -46,9 +46,7 @@ GWAS and fine-mapping, reproducible HPC pipelines, and tools that make analysis 
 <img src="https://img.shields.io/badge/AI%20tooling-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="AI tooling"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🧠 <a href="https://github.com/AlsammanAlsamman/brainny">brainny</a></h3>
 <sub><b>AI memory · Knowledge capture</b></sub>
@@ -58,7 +56,41 @@ GWAS and fine-mapping, reproducible HPC pipelines, and tools that make analysis 
 <img src="https://img.shields.io/badge/AI%20tooling-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="AI tooling"/>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3>💞 <a href="https://github.com/AlsammanAlsamman/myGeeKy">myGeeKy</a></h3>
+<sub><b>Research networking · GitHub</b></sub>
+<p>Find GitHub people who share your research — and will actually follow you back. Your CV, repos, ORCID &amp; Google Scholar papers → people and projects worth your time.</p>
+<a href="https://github.com/AlsammanAlsamman/myGeeKy"><img src="https://img.shields.io/github/stars/AlsammanAlsamman/myGeeKy?style=flat-square&color=f5c518&logo=github&label=stars" alt="stars"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<a href="https://pypi.org/project/mygeeky/"><img src="https://img.shields.io/pypi/v/mygeeky?style=flat-square&color=7fd8ff&label=pypi" alt="PyPI"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🌀 <a href="https://github.com/AlsammanAlsamman/crazyAI">crazyAI</a></h3>
+<sub><b>AI research · Impossible ideas</b></sub>
+<p>The impossible, disguised as possible and true — an AI builds on one deliberately mutated rule with full mathematical rigour, a fresh session checks it, and a judge measures the result.</p>
+<a href="https://github.com/AlsammanAlsamman/crazyAI"><img src="https://img.shields.io/github/stars/AlsammanAlsamman/crazyAI?style=flat-square&color=f5c518&logo=github&label=stars" alt="stars"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B%20kernels-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C%2B%2B kernels"/>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>📚 <a href="https://github.com/AlsammanAlsamman/SciLibra">SciLibra</a></h3>
+<sub><b>Literature · Mobile app</b></sub>
+<p>Manage and organize your scientific PDF articles on mobile and desktop — a pocket library for researchers, students and academics.</p>
+<a href="https://github.com/AlsammanAlsamman/SciLibra"><img src="https://img.shields.io/github/stars/AlsammanAlsamman/SciLibra?style=flat-square&color=f5c518&logo=github&label=stars" alt="stars"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Kivy-1f6feb?style=flat-square" alt="Kivy"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 <h3>📊 <a href="https://github.com/AlsammanAlsamman/alignstatplot">alignstatplot</a></h3>
 <sub><b>Sequence analysis · R package</b></sub>
@@ -68,19 +100,7 @@ GWAS and fine-mapping, reproducible HPC pipelines, and tools that make analysis 
 <img src="https://img.shields.io/badge/R%20package-1f6feb?style=flat-square" alt="R package"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🐍 <a href="https://github.com/AlsammanAlsamman/4FinemapSnake">4FinemapSnake</a></h3>
-<sub><b>Fine-mapping · HPC pipeline</b></sub>
-<p>Snakemake pipeline for multi-locus extraction, reference harmonization, LD diagnostics and FINEMAP / SuSiE / COJO runs.</p>
-<a href="https://github.com/AlsammanAlsamman/4FinemapSnake"><img src="https://img.shields.io/github/stars/AlsammanAlsamman/4FinemapSnake?style=flat-square&color=f5c518&logo=github&label=stars" alt="stars"/></a>
-<img src="https://img.shields.io/badge/Snakemake-039475?style=flat-square&logo=snakemake&logoColor=white" alt="Snakemake"/>
-<img src="https://img.shields.io/badge/SLURM-4b5563?style=flat-square" alt="SLURM"/>
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🔬 <a href="https://github.com/AlsammanAlsamman/SangerScope">SangerScope</a></h3>
 <sub><b>Sanger QC · Identification</b></sub>
@@ -90,19 +110,7 @@ GWAS and fine-mapping, reproducible HPC pipelines, and tools that make analysis 
 <img src="https://img.shields.io/badge/NCBI%20BLAST-20639b?style=flat-square" alt="NCBI BLAST"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧬 <a href="https://github.com/AlsammanAlsamman/VCF-Harmonizer">VCF-Harmonizer</a></h3>
-<sub><b>VCF · Reference alleles</b></sub>
-<p>SLURM scatter-gather pipeline that harmonizes VCF reference alleles against GRCh37 / GRCh38.</p>
-<a href="https://github.com/AlsammanAlsamman/VCF-Harmonizer"><img src="https://img.shields.io/github/stars/AlsammanAlsamman/VCF-Harmonizer?style=flat-square&color=f5c518&logo=github&label=stars" alt="stars"/></a>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/SLURM-4b5563?style=flat-square" alt="SLURM"/>
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🌾 <a href="https://github.com/AlsammanAlsamman/HaploTraitR">HaploTraitR</a></h3>
 <sub><b>Haplotypes · Trait association</b></sub>
